@@ -1,0 +1,2 @@
+# Chinese_character_recognition
+Pytorch 实现中文手写汉字识别
