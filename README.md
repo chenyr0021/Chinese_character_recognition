@@ -12,7 +12,7 @@ PyTorch: 1.0.1 gpu
 ## Dataset
 Divide the data into **train** and **test** folders. In each folder, put the images of the same class in the same sub-folder, and label them with integers. Like this:
 
-![](https://raw.githubusercontent.com/chenyr0021/Chinese_character_recognition/master/Screenshot%20from%202019-07-31%2014-20-36.png)
+![](https://raw.githubusercontent.com/chenyr0021/Chinese_character_recognition/master/pic.png)
 
 In this project, we use a data set from [train_set](http://www.nlpr.ia.ac.cn/databases/download/feature_data/HWDB1.1trn_gnt.zip), [test_set](http://www.nlpr.ia.ac.cn/databases/download/feature_data/HWDB1.1tst_gnt.zip).
 Also can download it using:
